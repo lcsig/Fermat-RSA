@@ -4,7 +4,7 @@ Code For Fermat Factorization Research
 
 ## The closest value to 4 * 1303 * 197 at each row 
 
-![M1](./plot1_withCeil.svg)
+![M1](./plot1.svg)
 
 ```matlab
 p = 1303; q =  197;
@@ -26,7 +26,7 @@ legend("Floor(c)", "Ceil(c)");
 
 ## The closest value to 4 * 1303 * 197 after eliminating the odd rows and the even columns
 
-![M1](./plot2_withCeil.svg)
+![M1](./plot2.svg)
 
 ```matlab
 p = 1303; q = 197;
@@ -55,7 +55,7 @@ legend("Floor(c)", "Ceil(c)");
 
 ## The closest value to 4 * 1303 * 197  after eliminating the odd rows and the even columns. Also, the row which is not equal to 2 times a prime number is removed
 
-![M1](./plot3_withCeil.svg)
+![M1](./plot3.svg)
 
 ```matlab
 p = 1303; q = 197;
