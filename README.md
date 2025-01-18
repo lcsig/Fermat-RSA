@@ -152,3 +152,9 @@ BigInteger qBySol = ceilSqrt.subtract(ceilSqrt.pow(2).subtract(fourN).sqrt());
 qBySol = qBySol.divide(TWO);
 System.out.println("The Smallest Prime Factor Is: " + qBySol);
 ```
+
+
+## Buy me a Coffee: 
+BTC: bc1q2kqvggm552h0csyr0awa2zepdapxdqnacw0z5w
+
+![BTC](https://raw.githubusercontent.com/lcsig/API-Hooking/refs/heads/master/img/btc.png)
